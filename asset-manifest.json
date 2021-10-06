@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Star-Rating-App/static/css/main.3e4af995.chunk.css",
+    "main.js": "/React-Star-Rating-App/static/js/main.5671f19a.chunk.js",
+    "main.js.map": "/React-Star-Rating-App/static/js/main.5671f19a.chunk.js.map",
+    "runtime-main.js": "/React-Star-Rating-App/static/js/runtime-main.40e96642.js",
+    "runtime-main.js.map": "/React-Star-Rating-App/static/js/runtime-main.40e96642.js.map",
+    "static/js/2.9b052781.chunk.js": "/React-Star-Rating-App/static/js/2.9b052781.chunk.js",
+    "static/js/2.9b052781.chunk.js.map": "/React-Star-Rating-App/static/js/2.9b052781.chunk.js.map",
+    "index.html": "/React-Star-Rating-App/index.html",
+    "static/css/main.3e4af995.chunk.css.map": "/React-Star-Rating-App/static/css/main.3e4af995.chunk.css.map",
+    "static/js/2.9b052781.chunk.js.LICENSE.txt": "/React-Star-Rating-App/static/js/2.9b052781.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40e96642.js",
+    "static/js/2.9b052781.chunk.js",
+    "static/css/main.3e4af995.chunk.css",
+    "static/js/main.5671f19a.chunk.js"
+  ]
+}
